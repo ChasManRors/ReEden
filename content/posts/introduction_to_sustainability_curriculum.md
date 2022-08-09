@@ -2,6 +2,7 @@
 title: "Introduction to Sustainability Curriculum"
 date: 2022-08-07T11:34:31-04:00
 draft: false
+author: "Fric Spruyt"
 ---
 ### How to approach teaching sustainability, with a focus on high school students.
 

@@ -3,7 +3,7 @@ languageCode: en-us
 title: Re Eden
 
 # -- https://themes.gohugo.io/themes/beautifulhugo/
-theme: beautifulhugo
+# theme: beautifulhugo
 
 # theme: hugo-theme-bootstrap
 # build:
@@ -13,7 +13,7 @@ theme: beautifulhugo
 # theme: airspace-hugo
 
 # -- https://github.com/theNewDynamic/gohugo-theme-ananke
-# theme: gohugo-theme-ananke
+theme: gohugo-theme-ananke
 
 # menu:
 #   material:
@@ -36,3 +36,8 @@ theme: beautifulhugo
 #     name: "License"
 #     url: "license/"
 #     weight: 40
+
+#  To add a menu
+# -- https://gohugo.io/templates/menu-templates/#section-menu-for-lazy-bloggers
+SectionPagesMenu: main
+
