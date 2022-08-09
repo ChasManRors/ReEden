@@ -1,3 +1,38 @@
 baseURL: http://example.org/
 languageCode: en-us
-title: My New Hugo Site
+title: Re Eden
+
+# -- https://themes.gohugo.io/themes/beautifulhugo/
+theme: beautifulhugo
+
+# theme: hugo-theme-bootstrap
+# build:
+# writeStats: true
+ 
+# -- https://github.com/themefisher/airspace-hugo/
+# theme: airspace-hugo
+
+# -- https://github.com/theNewDynamic/gohugo-theme-ananke
+# theme: gohugo-theme-ananke
+
+# menu:
+#   material:
+#     name: "Material"
+#     url: "/"
+#     weight: 0
+#   getting:
+#     name: "Getting started"
+#     url: "getting-started/"
+#     weight: 10
+#   adding:
+#     name: "Adding content"
+#     url: "adding-content/"
+#     weight: 20
+#   roadmap:
+#     name: "Roadmap"
+#     url: "roadmap/"
+#     weight: 30
+#   licence:
+#     name: "License"
+#     url: "license/"
+#     weight: 40
