@@ -1,14 +1,19 @@
 ---
-title: "Menuorganization"
+title: "Menu Organization"
 date: 2022-08-09T14:29:17-04:00
 draft: true
+tags: ["Eco-villages" , "Transportation", "Agriculture" , "Construction" ]
 ---
 
-# Initial menu anchors
+
+## My suspicion is these should be tags
+
+
+###    Initial menu anchors
 <!-- ## Links page(s) might be divided into several categories. -->
 
  - [Sustainable living](http://localhost:1313/posts/)
- - [Sustainable living/Eco-villages](http://localhost:1313/)
+ - [Sustainable living/Eco-villages](../posts/introduction_to_sustainability_curriculum/)
  - [Transportation](http://localhost:1313/posts/fric/)
  - [Agriculture](http://localhost:1313/)
  - [Construction](http://localhost:1313/)

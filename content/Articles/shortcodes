@@ -1,0 +1,24 @@
+---
+title: "Shortcodes"
+date: 2022-08-09T14:24:52-04:00
+draft: true
+---
+
+## Experimenting with Shortcodes
+### Text highlighting
+{{< highlight go >}} A bunch go of code here go {{< /highlight >}}
+### Youtube inclusion
+{{< youtube rb7ZEEHXWB8 >}}
+### Tweet inclusion  
+{{< tweet 1557073147458977797  >}}
+### vimeo
+{{< vimeo 146022717 >}}
+### gist
+{{< gist spf13 7896402 >}}
+
+## Needs to be configured before using
+### instagram
+inst agram BMokmydjG-M 
+### instagram no caption
+inst agram BMokmydjG-M hidecaption
+

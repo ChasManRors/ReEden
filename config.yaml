@@ -4,6 +4,16 @@ title: Re Eden
 
 # -- https://themes.gohugo.io/themes/beautifulhugo/
 # theme: beautifulhugo
+theme: gohugo-theme-ananke
+
+SectionPagesMenu: main
+show_reading_time: true
+ShowReadingTime: "true"
+
+taxonomies:
+  tag: tags
+  category: categories
+  mood: moods
 
 # theme: hugo-theme-bootstrap
 # build:
@@ -13,7 +23,13 @@ title: Re Eden
 # theme: airspace-hugo
 
 # -- https://github.com/theNewDynamic/gohugo-theme-ananke
-theme: gohugo-theme-ananke
+# theme: gohugo-theme-ananke
+
+# [taxonomies]:
+#   tag: "tags"
+#   category: "categories"
+#   mood: "moods"
+
 
 # menu:
 #   material:
@@ -39,5 +55,4 @@ theme: gohugo-theme-ananke
 
 #  To add a menu
 # -- https://gohugo.io/templates/menu-templates/#section-menu-for-lazy-bloggers
-SectionPagesMenu: main
 

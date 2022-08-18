@@ -1,25 +1,14 @@
 ---
-title: "Introducing ReEden"
-date: 2022-08-08T11:13:12-04:00
-draft: false
-author: "Fric Spruyt"
-tags: ["Sustainable living"]
-categories: ["cat1", "cat2"]
-moods: ["good", "excited"]
+title: ""
+date: 2022-08-17T17:17:19-04:00
+draft: true
 
-# cover:
-#   image: img/valleyandmountain.jpeg
-#   alt: 'This is a post image'
-#   caption: 'This is the caption'
+
+tags: ["Sustainable living", "Social organizing", "State of the world", "Public policy", "Other Organizations", "Inspirational"]
 ---
 
 
-
-![Scenario 1: Across columns](/img/rock_wall.jpeg)
-
-
-<!-- #   image: img/valleyandmountain.jpeg -->
-
+![foo](/img/boat.jpeg?width=100px&height=200px) 
 
 This site is dedicated to the idea that humans can actually life in harmony with each other and with the rest of the planet, despite all evidence to the contrary.
 The hope is that in exploring the content and links, you along with many others will be inspired to dream, and then to act, in hopes of realizing this fantastic idea.
@@ -30,14 +19,3 @@ Follow progress, or get involved
 
 If you want to contact us for any reason, you can do that here.
 In an effort to make sure that all the content on this site is as accurate and useful as possible, all content will will be vetted by someone with expertise in the particular area, and any public community forum will be moderated.
-<!-- 
-- Links page(s) might be divided into several categories.
-- Sustainable living/ Eco-villages.
-- Transportation.
-- Agriculture
-- Construction
-- Social organizing/ agreements, Group Process, Legal Structure
-- State of the world: Environment. Energy use, Politics, Disarmament
-- Public policy: Get involved
-- Other Organizations/ Resources
-- Inspirational/Fun -->
