@@ -1,7 +1,7 @@
 ---
 title: "Sustainable Living"
 date: 2022-08-18T13:01:38-04:00
-draft: true
+draft: false
 tags: ["Eco-villages" , "Transportation", "Agriculture" , "Construction" ]
 ---
 

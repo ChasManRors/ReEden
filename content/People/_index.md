@@ -1,7 +1,7 @@
 ---
 title: "Meet the Team"
 date: 2022-08-02T22:32:07-04:00
-draft: true
+draft: false
 ---
 
 

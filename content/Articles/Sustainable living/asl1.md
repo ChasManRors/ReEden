@@ -1,7 +1,7 @@
 ---
 title: "Art Sus liv a1"
 date: 2022-08-18T12:59:21-04:00
-draft: true
+draft: false
 tags: ["Eco-villages"]
 ---
 
