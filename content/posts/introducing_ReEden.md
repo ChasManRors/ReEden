@@ -1,27 +1,17 @@
 ---
 title: "Introducing ReEden"
-date: 2022-08-08T11:13:12-04:00
+date: 2022-08-28T11:34:31-04:00
 draft: false
 author: "Fric Spruyt"
+thumbnailImagePosition: left
+thumbnailImage: "img/greenHills.jpeg"
 tags: ["Sustainable living"]
-categories: ["cat1", "cat2"]
-moods: ["good", "excited"]
-
-# cover:
-#   image: img/valleyandmountain.jpeg
-#   alt: 'This is a post image'
-#   caption: 'This is the caption'
 ---
-
-
-
-![Scenario 1: Across columns](/img/rock_wall.jpeg)
-
+{{< wide-image src="/img/greenHills.jpeg" title="Dark Trees with a Light Background" >}}
 
 <!-- #   image: img/valleyandmountain.jpeg -->
 
-
-This site is dedicated to the idea that humans can actually life in harmony with each other and with the rest of the planet, despite all evidence to the contrary.
+**This site is dedicated to the idea that humans can actually live in harmony with each other and with the rest of the planet, despite all evidence to the contrary.**
 The hope is that in exploring the content and links, you along with many others will be inspired to dream, and then to act, in hopes of realizing this fantastic idea.
 There are many who came before us who have inspired and informed us, and many more now working now to get us back to a sustainable relationship with our planet/home. You can find out about some of them in the articles and links, and can let us know about others here.
 

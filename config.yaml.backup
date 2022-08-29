@@ -1,0 +1,23 @@
+
+# === gohugo-theme-ananke ===
+baseURL: ""
+languageCode: en-us
+title: Re Eden
+# theme: gohugo-theme-ananke
+SectionPagesMenu: main
+show_reading_time: true
+ShowReadingTime: "true"
+taxonomies:
+  tag: tags
+  category: categories
+  mood: moods
+
+#  === hugo-tranquilpeak-theme ===
+defaultContentLanguage: en-us
+theme: hugo-tranquilpeak-theme
+
+params:
+  keywords:
+    - development
+    - next-gen
+
