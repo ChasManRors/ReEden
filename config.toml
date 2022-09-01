@@ -47,9 +47,11 @@ canonifyurls = true
 # ------
 [author]
   name = "ReEden Project" 
-  bio = "Live Sustainably. Design for Living. Become part of the **EcoVillage**"
-  job = "Site by - Advanced Earthworks Designs"
+  bio = "Live Sustainably. Design for Living. Become one with our **EcoVillage.**"
+  # location = "Site by Advanced.Earthworks.Designs@gmail.com"
   location = "Vermont, USA"
+  job = "Contact: Fric Spruyt • 413-397-3771 • fricjan@yahoo.com"
+  # 188 Haydenville Rd., West Whately, MA 01039
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
   # gravatarEmail = "thibaud.lepretre@gmail.com"
   gravatarEmail = "cham.meta@gmail.com"

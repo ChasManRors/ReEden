@@ -1,5 +1,5 @@
 ---
-title: "Categories place holder"
+title: "Categories - a place holder"
 date: 2022-08-01T14:56:54-04:00
 thumbnailImagePosition: left
 thumbnailImage: "/img/Porky.jpeg"
