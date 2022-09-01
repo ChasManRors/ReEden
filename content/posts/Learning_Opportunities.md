@@ -7,7 +7,18 @@ thumbnailImagePosition: left
 coverImage: "/img/boat.jpeg"
 showSocial: false
 tags: ["Learning form others mistakes"]
+
+showSocial: false
+categories:
+- Sustainable living
+- Design for Living
+- Inspirational
+- Transportation
+- State of the world
+- Agriculture
+- Construction
 ---
+
 Learning from Mistakes of Others (and Our Own)
 The Vasa pictured above is a fitting symbol of a learning opportunity, being one of the most legendary failures in human history.
 <!--more-->

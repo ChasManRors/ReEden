@@ -1,14 +1,24 @@
 ---
 # title: "Introducing ReEden"
 title: ""
-date: 2022-08-28T11:34:31-04:00
+date: 2022-08-29T11:34:31-04:00
 draft: false
 author: "Fric Spruyt"
 # thumbnailImagePosition: top
 # thumbnailImage: "/img/greenHills.jpeg"
 # coverImage: "/img/greenHills.jpeg"
 tags: ["Sustainable living"]
-showSocial: true
+showSocial: false
+
+# vvvvv
+autoThumbnailImage: false
+thumbnailImagePosition: "top"
+# thumbnailImage: "/img/greenHills.jpeg"
+# coverImage: "/img/greenHills.jpeg"
+# metaAlignment: bottom
+# ^^^^^
+
+
 ---
 {{< wide-image src="/img/greenHills.jpeg" title="" >}}
 <!-- {{< wide-image src="/img/greenHills.jpeg" title="EcoVillage Before and after" >}} -->

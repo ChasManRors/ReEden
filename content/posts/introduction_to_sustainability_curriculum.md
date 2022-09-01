@@ -8,7 +8,12 @@ thumbnailImagePosition: left
 # thumbnailImage: "/img/valleyandmountain.jpeg"
 coverImage: "/img/valleyandmountain.jpeg"
 showSocial: false
-
+categories:
+- Sustainable living
+  - Eco-villages
+  - Transportation
+  - Agriculture
+  - Construction
 ---
 <!-- {{< wide-image src="/img/valleyandmountain.jpeg" title="Mountains in back of Valley" >}} -->
 <!-- ![Scenario 1: Across columns](img/valleyandmountain.jpeg) -->
