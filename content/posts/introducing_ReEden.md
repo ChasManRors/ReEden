@@ -1,17 +1,24 @@
 ---
-title: "Introducing ReEden"
+# title: "Introducing ReEden"
+title: ""
 date: 2022-08-28T11:34:31-04:00
 draft: false
 author: "Fric Spruyt"
-thumbnailImagePosition: left
-thumbnailImage: "img/greenHills.jpeg"
+# thumbnailImagePosition: top
+# thumbnailImage: "/img/greenHills.jpeg"
+# coverImage: "/img/greenHills.jpeg"
 tags: ["Sustainable living"]
+showSocial: true
 ---
-{{< wide-image src="/img/greenHills.jpeg" title="Dark Trees with a Light Background" >}}
-
-<!-- #   image: img/valleyandmountain.jpeg -->
+{{< wide-image src="/img/greenHills.jpeg" title="" >}}
+<!-- {{< wide-image src="/img/greenHills.jpeg" title="EcoVillage Before and after" >}} -->
+<!-- View from prime campsite -->
 
 **This site is dedicated to the idea that humans can actually live in harmony with each other and with the rest of the planet, despite all evidence to the contrary.**
+<!--more-->
+
+
+
 The hope is that in exploring the content and links, you along with many others will be inspired to dream, and then to act, in hopes of realizing this fantastic idea.
 There are many who came before us who have inspired and informed us, and many more now working now to get us back to a sustainable relationship with our planet/home. You can find out about some of them in the articles and links, and can let us know about others here.
 

@@ -3,11 +3,15 @@ title: "Learning Opportunities"
 date: 2022-08-26T17:50:54-04:00
 draft: false
 thumbnailImagePosition: left
-thumbnailImage: img/boat.jpeg
-coverImage: img/boat.jpeg
+# thumbnailImage: "/img/boat.jpeg"
+coverImage: "/img/boat.jpeg"
+showSocial: false
+tags: ["Learning form others mistakes"]
 ---
-# Learning from Mistakes of Others (and Our Own)
+Learning from Mistakes of Others (and Our Own)
 The Vasa pictured above is a fitting symbol of a learning opportunity, being one of the most legendary failures in human history.
+<!--more-->
+
 
 It was built at great expense by the insecure and arrogant king Gustav Vasa, who no one dared tell it was unstable.  It sunk within a half hour of launch, to great fanfare.  
 

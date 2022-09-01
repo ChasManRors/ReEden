@@ -5,14 +5,15 @@ draft: false
 author: "Fric Spruyt"
 tags: ["Sustainable living", "Education"]
 thumbnailImagePosition: left
-thumbnailImage: "img/valleyandmountain.jpeg"
+# thumbnailImage: "/img/valleyandmountain.jpeg"
+coverImage: "/img/valleyandmountain.jpeg"
+showSocial: false
 
-# categories: ["cat1", "cat2"]
-# moods: ["happy"]
 ---
-{{< wide-image src="/img/valleyandmountain.jpeg" title="Mountains in back of Valley" >}}
+<!-- {{< wide-image src="/img/valleyandmountain.jpeg" title="Mountains in back of Valley" >}} -->
 <!-- ![Scenario 1: Across columns](img/valleyandmountain.jpeg) -->
-# How to approach teaching sustainability, with a focus on high school students.
+How to approach teaching sustainability, with a focus on high school students.
+<!--more-->
 
 
 Imagine for a moment that you have the reasoning capacity way beyond that of any other species on your planet.
