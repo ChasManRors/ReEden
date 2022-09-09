@@ -6,7 +6,7 @@ thumbnailImagePosition: left
 # thumbnailImage: "/img/boat.jpeg"
 coverImage: "/img/boat.jpeg"
 showSocial: false
-tags: ["Learning form others mistakes"]
+tags: ["Learning from others mistakes"]
 
 showSocial: false
 categories:

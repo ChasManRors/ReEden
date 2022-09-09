@@ -30,3 +30,27 @@ showSocial: false
 ---
 
 Place holder for categories
+
+<!--more-->
+
+- Sustainable living
+  - Eco-villages
+  - Transportation
+  - Agriculture
+  - Construction
+- Social organizing
+  - agreements
+  - Group Process
+  - Legal Structure
+- State of the world
+  - Environment
+  - Energy use
+  - Politics
+  - Disarmament
+- Design for Living
+- Public policy
+  - Get involved
+- Other Organizations
+  - Resources
+- Inspirational
+  - Fun

@@ -146,7 +146,7 @@ canonifyurls = true
   # Posts related configuration
   # ---------------------------
   # Global keywords configuration. Following keywords will be add to every pages
-  #  keywords = ["development", "next-gen"]
+   keywords = ["Fric", "Charles"]
 
   # Hide sidebar on all article page to let article take full width to improve reading, and enjoy wide images and cover images. (true: enable, false: disable)
   clearReading = true
@@ -359,7 +359,7 @@ canonifyurls = true
   # --------------
   [params.comment]
     [params.comment.disqus]
-      enable = true
+      enable = false
       shortname = "hugo-tranquilpeak-theme"
     [params.comment.gitalk]
       enable = false

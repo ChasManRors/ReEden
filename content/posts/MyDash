@@ -1,0 +1,55 @@
+---
+title: "Learning Opportunities"
+date: 2022-08-26T17:50:54-04:00
+draft: false
+author: "Fric Spruyt"
+tags: ["Learning form others mistakes", "Sustainable living", "Education"]
+
+autoThumbnailImage: false ???????
+thumbnailImagePosition: left
+thumbnailImage: "/img/Porky.jpeg"??????
+coverImage: "/img/boat.jpeg"
+metaAlignment: bottom ??????
+
+showSocial: false ???? should I show linked in and facebook etc
+
+gallery:
+- /img/DarkTreesLightBackground.jpeg
+- /img/Porky.jpeg
+- /img/boat.jpeg
+
+categories:
+- Sustainable living
+  - Eco-villages
+  - Transportation
+  - Agriculture
+  - Construction
+- Social organizing
+  - agreements
+  - Group Process
+  - Legal Structure
+- State of the world
+  - Environment
+  - Energy use
+  - Politics
+  - Disarmament
+- Design for Living
+- Public policy
+  - Get involved
+- Other Organizations
+  - Resources
+- Inspirational
+  - Fun
+---
+
+{{< wide-image src="/img/greenHills.jpeg" title="" >}} ????? make it big
+
+This is part is presented with the thumbnails
+
+<!--more-->
+
+
+This part is the rest of the article
+
+[x] Learning opportunities
+[x] cats

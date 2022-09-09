@@ -1,7 +1,7 @@
 ---
 # title: "Introducing ReEden"
 title: ""
-date: 2022-08-29T11:34:31-04:00
+date: 2022-09-07T18:33:32-04:00
 draft: false
 author: "Fric Spruyt"
 # thumbnailImagePosition: top
