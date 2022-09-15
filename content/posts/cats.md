@@ -54,3 +54,7 @@ Place holder for categories
   - Resources
 - Inspirational
   - Fun
+
+<!-- {{< cloakemail address="cmmagid@gmail.com" display="Send us a mail!" >}} -->
+
+{{< cloakemail address="cmmagid@gmail.com" display="Send us a mail!" query="subject=Message from contact form" >}}
