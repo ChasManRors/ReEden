@@ -24,7 +24,7 @@ thumbnailImagePosition: "top"
 <!-- {{< wide-image src="/img/greenHills.jpeg" title="EcoVillage Before and after" >}} -->
 <!-- View from prime campsite -->
 
-**WTFMAN - This site is dedicated to the idea that humans can actually live in harmony with each other and with the rest of the planet, despite all evidence to the contrary.**
+**This site is dedicated to the idea that humans can actually live in harmony with each other and with the rest of the planet, despite all evidence to the contrary.**
 <!--more-->
 
 
