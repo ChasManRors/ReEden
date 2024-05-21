@@ -29,5 +29,5 @@ categories:
 tags:
 - image gallery
 ---
-Gallery
+Gallery - click on any picture to see the entire gallery
 <!--more-->
